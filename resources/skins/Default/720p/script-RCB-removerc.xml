@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <window id="5400">
 	<defaultcontrol>5411</defaultcontrol>
 	<include>dialogeffect</include>
@@ -126,7 +125,7 @@
 					<visible>[Control.HasFocus(5411) | Control.HasFocus(5412)]</visible>
 				</control>
 				<control type="label">
-					<posx>240</posx>
+					<posx>220</posx>
 					<posy>5</posy>
 					<width>330</width>
 					<height>20</height>
@@ -138,7 +137,7 @@
 					<visible>![Control.HasFocus(5411) | Control.HasFocus(5412)]</visible>
 				</control>
 				<control type="label">
-					<posx>240</posx>
+					<posx>220</posx>
 					<posy>5</posy>
 					<width>330</width>
 					<height>20</height>
@@ -241,7 +240,7 @@
 					<visible>[Control.HasFocus(5491) | Control.HasFocus(5492)]</visible>
 				</control>
 				<control type="label">
-					<posx>240</posx>
+					<posx>220</posx>
 					<posy>5</posy>
 					<width>330</width>
 					<height>20</height>
@@ -253,7 +252,7 @@
 					<visible>![Control.HasFocus(5491) | Control.HasFocus(5492)]</visible>
 				</control>
 				<control type="label">
-					<posx>240</posx>
+					<posx>220</posx>
 					<posy>5</posy>
 					<width>330</width>
 					<height>20</height>

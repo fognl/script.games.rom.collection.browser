@@ -387,7 +387,7 @@
 							<animation reversible="false" effect="fade" end="50" time="0" condition="!Skin.HasSetting(rcb_overwriteImportOptions)">Conditional</animation>
 						</control>
 						<control type="label">
-							<posx>550</posx>
+							<posx>220</posx>
 							<posy>5</posy>
 							<width>330</width>
 							<height>20</height>
@@ -400,7 +400,7 @@
 							<animation reversible="false" effect="fade" end="50" time="0" condition="!Skin.HasSetting(rcb_overwriteImportOptions)">Conditional</animation>
 						</control>
 						<control type="label">
-							<posx>550</posx>
+							<posx>220</posx>
 							<posy>5</posy>
 							<width>330</width>
 							<height>20</height>
